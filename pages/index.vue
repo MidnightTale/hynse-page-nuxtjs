@@ -21,6 +21,9 @@
             </a>.
           </p>
           <p>
+            Hello world!
+          </p>
+          <p>
             If you have questions, please join the official <a
               href="https://chat.vuetifyjs.com/"
               target="_blank"
